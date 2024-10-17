@@ -26,3 +26,5 @@ const division = (firstNumber, secondNumber) => {
 
   return divisionResult;
 };
+
+console.log(sumation(2, 1));
