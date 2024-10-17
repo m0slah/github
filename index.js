@@ -25,4 +25,4 @@ const division = (firstNumber, secondNumber) => {
   return divisionResult;
 };
 
-console.log(sumation(2, 1));
+console.log(sumation(2, 1)
