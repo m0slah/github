@@ -28,3 +28,6 @@ const division = (firstNumber, secondNumber) => {
 console.log(sumation(2, 1));
 console.log(multiplication(2, 1));
 console.log(division(2, 1));
+
+console.log("first");
+console.log("second");
