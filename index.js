@@ -5,3 +5,9 @@ const sumation = (firstNumber, secondNumber) => {
 
   return sumationResult;
 };
+
+const multiplication = (firstNumber, secondNumber) => {
+  const multiplicationResult = firstNumber * secondNumber;
+
+  return multiplicationResult;
+};
