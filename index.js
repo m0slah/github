@@ -1,5 +1,3 @@
-console.log("github test");
-
 const sumation = (firstNumber, secondNumber) => {
   const sumationResult = firstNumber + secondNumber;
 
@@ -26,3 +24,7 @@ const division = (firstNumber, secondNumber) => {
 
   return divisionResult;
 };
+
+console.log(sumation(2, 1));
+console.log(multiplication(2, 1));
+console.log(division(2, 1));
