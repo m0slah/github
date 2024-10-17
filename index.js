@@ -11,3 +11,9 @@ const multiplication = (firstNumber, secondNumber) => {
 
   return multiplicationResult;
 };
+
+const subtraction = (firstNumber, secondNumber) => {
+  const subtractionResult = firstNumber - secondNumber;
+
+  return subtractionResult;
+};
