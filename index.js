@@ -17,3 +17,12 @@ const subtraction = (firstNumber, secondNumber) => {
 
   return subtractionResult;
 };
+
+const division = (firstNumber, secondNumber) => {
+  if (secondNumber === 0) {
+    return "Error: Division by zero is not allowed";
+  }
+  const divisionResult = firstNumber / secondNumber;
+
+  return divisionResult;
+};
